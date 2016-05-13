@@ -1,3 +1,8 @@
+# Program:
+#	This program create random names and corresponding height in a given range
+# Usage:
+#	create_data.py name_num height_low_bound height_up_bound
+
 import sys
 import random
 import string
