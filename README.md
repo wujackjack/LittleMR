@@ -17,25 +17,43 @@ Procedure:
 Input:
 
 ytjyu 180
+
 kpzbd 170
+
 llohk 170
+
 bhiil 180
+
 blzzz 167
+
 kvyrq 177
+
 qrtce 168
+
 wpnou 174
+
 xmnpm 167
+
 usxem 174
 
 Output:
 
 blzzz 167
+
 xmnpm 167
+
 qrtce 168
+
 kpzbd 170
+
 llohk 170
+
 usxem 174
+
 wpnou 174
+
 kvyrq 177
+
 bhiil 180
+
 ytjyu 180
